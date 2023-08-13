@@ -15,12 +15,16 @@ To solve and provide solutions to the following  problems and questions.
 2. Create the following tables in the database
 
    i.  Students info(Student ID, Gender,Name,Age,Subject)
+   
   ii.  Health records(Student ID,Blood group,Height,Weight)
+  
    iii. performance(Student ID,Score,Grade)
 
    >The ID has to be unique,
-   >Where a student has no score,it should be '0' by default,
+   >Where a student has no score,it should be '0' by default
+   
    a.Add a constraint that prevents the ID and subject from taking null values.
+   
    b.Change the column name"subject" to "course".
 
 # Skills Demonstrated 
