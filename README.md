@@ -14,7 +14,7 @@ To solve and provide solutions to the following  problems and questions.
 1. Create a database called Student Record
 2. Create the following tables in the database
 
-   i.  Students info(Student ID, Gender,Name,Age,Subject)
+  i.  Students info(Student ID, Gender,Name,Age,Subject)
    
   ii.  Health records(Student ID,Blood group,Height,Weight)
   
@@ -41,6 +41,7 @@ To solve and provide solutions to the following  problems and questions.
 # Data analysis
 I made use of  PGadmin4 in PostgreSQL to run SQL for the task.
 After opening pgadmin4 ,click on the server ,then right click on the database and select create,type the name of the database and then save.
+
 Then, create a table inside the database.
 click on the database created ,then click on query tool ,create a table for students info, then type the following code in the query tool.
 
